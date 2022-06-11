@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: lightgray;
 }
 
 code {
@@ -28,7 +29,7 @@ code {
 }
 
 .nav > * {
-  padding-right: 20px;
+  padding-right: 30px;
 }
 
 .logo {
@@ -44,4 +45,9 @@ h1 {
 
 ul {
   text-align: left;
+}
+
+.stockInfo {
+  text-align: left;
+  margin: 20px;
 }
